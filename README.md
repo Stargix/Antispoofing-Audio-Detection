@@ -17,9 +17,9 @@ The pipeline includes:
 
 ## 🧠 Models Used
 
-- Logistic Regression
+- KNN
+- Decision Tree
 - Support Vector Machine (SVM)
-- (Optional: Add others if you used them)
 
 ## 📊 Results
 
